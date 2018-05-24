@@ -9,7 +9,7 @@ You'll need to have installed Visual Studio 2015 or higher.
 
 ### Installing 
 
-You should check my guide here -> 
+You should check my guide here -> https://medium.com/@gonzalocabrera_79443/asp-net-vs-asp-net-core-bccf1bf99812
 
 ### Authors
 
