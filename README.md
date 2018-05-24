@@ -17,4 +17,4 @@ Gonzalo Cabrera - That would be me. :)
 
 ### Acknowledgments
 
-Thanks google.
+Thanks Google.
